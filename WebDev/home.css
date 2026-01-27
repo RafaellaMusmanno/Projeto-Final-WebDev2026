@@ -1,0 +1,110 @@
+body {
+
+    font-family: Arial, sans-serif;
+    background-color: #FFE4E1;
+     align-items:center;
+    border-radius: 15px;
+    text-align: center;
+}
+
+h1{
+    color: #800000;
+    text-align: center;
+    font-family: Playfair Display;
+    font-size:xxx-large
+}
+
+p#logo {
+     color: #800000;
+    text-align: center;
+    font-family: Playfair Display
+}
+
+h3#menu{
+ color: #800000;
+    text-align: left ;
+    font-family: Playfair Display;
+
+
+}
+
+nav{
+
+
+    color: #800000;
+    text-align: left;
+ font-family: Playfair Display
+
+}
+
+h3#lista{
+
+color: #800000;
+    text-align: left ;
+    font-family: Playfair Display
+
+}
+
+p#lista5 {
+
+    color: #800000;
+    text-align: left;
+    font-family: Playfair Display
+
+
+}
+
+ol{
+
+  color: #800000;
+    text-align: left;
+ font-family: Playfair Display
+
+
+}
+
+h3#rd{
+
+color: #800000;
+    text-align: center ;
+    font-family: Playfair Display
+
+
+}
+
+ul#rd2{
+
+
+  color: #800000;
+    text-align: left;
+ font-family: Playfair Display
+
+
+}
+
+h2#produtos{
+
+color: #800000;
+    text-align: center ;
+    font-family: Playfair Display
+
+}
+
+    .rodapé{
+color: #800000;
+    text-align: center ;
+    font-family: Playfair Display
+    padding: 10 px;
+    background-color: #FFC0CB;
+}
+
+.vitrine {
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center;     /* Centraliza verticalmente se houver altura */
+    flex-wrap: wrap;         /* Se não couber na linha, pula para a de baixo */
+    gap: 20px;               /* Dá um espaço entre as fotos */
+    padding: 20px;
+}
+
+
