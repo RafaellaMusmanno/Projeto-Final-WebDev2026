@@ -19,6 +19,7 @@ header {
   right: 20px;
   text-decoration: none;
   font-weight: bold;
+text-align: right
 }
 
 
@@ -115,5 +116,6 @@ td button {
     background-color: #e63946;
 
 }
+
 
 
