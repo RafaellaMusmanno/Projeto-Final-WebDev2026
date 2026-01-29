@@ -14,10 +14,11 @@ header {
 }
 
 .home {
+ position: fixed;
+  top: 20px;
+  right: 20px;
   text-decoration: none;
-  color: black;
   font-weight: bold;
-     justify-content: flex-end
 }
 
 
@@ -114,4 +115,5 @@ td button {
     background-color: #e63946;
 
 }
+
 
