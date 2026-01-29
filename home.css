@@ -6,11 +6,7 @@ body {
     border-radius: 15px;
     text-align: center;
 }
-head {
 
-background-color: 	#F08080;
-    
-}
 h1{
     color: #800000;
     text-align: center;
@@ -110,6 +106,7 @@ color: #800000;
     gap: 20px;               /* Dá um espaço entre as fotos */
     padding: 20px;
 }
+
 
 
 
