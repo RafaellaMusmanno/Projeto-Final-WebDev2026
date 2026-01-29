@@ -7,11 +7,7 @@ body {
     text-align: center;
 }
 
-header {
-  display: flex;
-  justify-content: flex-end; /* joga pra direita */
-  padding: 20px;
-}
+
 
 .home {
  position: fixed;
@@ -116,6 +112,7 @@ td button {
     background-color: #e63946;
 
 }
+
 
 
 
