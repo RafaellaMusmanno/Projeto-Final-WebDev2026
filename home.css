@@ -6,7 +6,7 @@ body {
     border-radius: 15px;
     text-align: center;
 }
-.logo {
+.logo{
   background-color: #BC8F8F;
   color: #800000;
   padding: 10px 20px;
@@ -110,6 +110,7 @@ color: #800000;
     gap: 20px;               /* Dá um espaço entre as fotos */
     padding: 20px;
 }
+
 
 
 
